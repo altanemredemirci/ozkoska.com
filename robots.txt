@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Disallow: /netting
+Disallow: ozkoska.sql
+Disallow: robots.txt
+Sitemap: http://ozkoska.com/sitemap.xml
